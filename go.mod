@@ -31,7 +31,7 @@ require (
 	github.com/ProtonMail/go-crypto v0.0.0-20220714114130-e85cedf506cd
 	github.com/doug-martin/goqu/v9 v9.18.0
 	github.com/driftprogramming/pgxpoolmock v1.1.0
-	github.com/georgysavva/scany v1.0.0
+	github.com/georgysavva/scany v1.2.1
 	github.com/getsentry/sentry-go v0.13.0
 	github.com/golang/mock v1.6.0
 	github.com/google/go-github/v35 v35.3.0
@@ -143,7 +143,6 @@ require (
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.1 // indirect
-	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
